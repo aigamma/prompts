@@ -22,10 +22,15 @@ Desktop.ini
 *~
 
 # ---------------------------------------------------------------------------
-# Private prompts: anything you don't want public goes here. Two easy options:
-#   1. Drop it in a folder named  private/
-#   2. Name the file  *.private.md   (e.g. client-secret-prompt.private.md)
-# Both are ignored automatically, so they stay on your machine only.
+# Private prompts: 
+#   1. Drop in a folder named private/
+#   2. Name the file  *.private.md (or .txt, .pdf, .docx, .xlsx, .pptx)
+# Both are ignored automatically.
 # ---------------------------------------------------------------------------
 private/
 *.private.md
+*.private.txt
+*.private.pdf
+*.private.docx
+*.private.xlsx
+*.private.pptx

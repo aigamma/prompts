@@ -1,7 +1,6 @@
 # prompts
 
-A personal, version-controlled collection of prompts — backed up here so every
-update is safe and easy to share.
+A personal, version-controlled collection of prompts backed up here so every update is safe. The portable value here is a way to scaffold your own personal prompt library, which is what I am doing by dedicating Visual Studio Code to be a prompt library with this repository. I figure if someone might be able to get something out of these prompts that I may as well keep it open for them. And then of course .gitignore proprietary directories as you should too in your forks.
 
 ## Layout
 
@@ -14,8 +13,7 @@ Add new folders freely; the structure is just whatever's useful.
 
 ## Keeping something private
 
-This repo is **public**. Anything you don't want shared, keep it out of git one
-of two ways:
+This repo is **public**. Anything you don't want shared, keep it out of git one of two ways:
 
 - put it in a `private/` folder, or
 - name the file `*.private.md`

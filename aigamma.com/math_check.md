@@ -1,1 +1,0 @@
-Run through the math presented on each page. Look for errors in the math or how it is displayed. Also, look for ways that maybe it can be improved, how it is presented, how the defaults are, and how it is explained. Go ahead and make commits and pushes if it seems like an obvious fix to you. If you are more on the fence, you can ask, but otherwise try to work autonomously.
