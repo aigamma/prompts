@@ -1,0 +1,31 @@
+# Local Claude Code settings (machine-specific, not part of the prompt backup)
+.claude/settings.local.json
+
+# Secrets / credentials / environment
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+credentials.json
+secrets.*
+
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---------------------------------------------------------------------------
+# Private prompts: anything you don't want public goes here. Two easy options:
+#   1. Drop it in a folder named  private/
+#   2. Name the file  *.private.md   (e.g. client-secret-prompt.private.md)
+# Both are ignored automatically, so they stay on your machine only.
+# ---------------------------------------------------------------------------
+private/
+*.private.md
