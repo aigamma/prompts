@@ -1,0 +1,7 @@
+# General Prompts for Greenfield Projects
+
+## Overnight Loop
+  > /loop Do not pause loop for more than 250 seconds. Do not pause when you know that you have viable tasks in the task stack to work on. Keep finding ways to make the site more engaging and useful and interactive and educational but also appealing to highly intellingent and aspiring AI engineers who want to bookmark to site to help stay the best at their craft. Keep working toward the mission that you are scaffolding a great site that teaches AI and shows what is new that day/week/month/quarter in AI. If not sure what to work on then populate the knowledge base which is at zero. Be courageous and fearless. Nothing to lose and everything to gain with bold innovation. You can end the loop at 48 hours but otherwise I will be ending it tomorrow morning to check in. Go into overnight grind mode which means be very slow on the pushes (no one is supervising it and they cost me build credits) but be liberal and verbose with with commits so that future sessions can learn what is most important from them. And make sure that the CLAUDE.md harness of supporting .md files has a system which will make it unlikely for anything to become or remain stale.
+
+
+  
