@@ -17,10 +17,15 @@ Take some time to explore the site and learn its structures and agentic scaffold
 /plan Look for areas to improve. Fix obvious things, but otherwise make a report of recommendations. 
 
 ## Deep Sweep
-Run a Deep Health Check. Fix obvious errors, investigate the warnings, and make a list of recommendations.
+Run a Deep Health Check. Fix obvious errors, investigate the warnings, but most importantly find a list of ways to improve the site and make it more useful and have enduring value for repeat visitors. Make a list of recommendations for what seems risky, otherwise start building it and see how it looks.
 
 ## Sweep for Unpushed Commits
 Confirm that everything has been pushed. 
+
+## Full Strength not Weaker Subagents
+This chat is selected for /effort max on Opus 4.8 and that is the writing strength that I am looking for here. There 
+is no rush: Be slow and meticulous over rushing through the tasks.
+
 
 ## Commit Liberally
 As another reason to commit liberally. I have had overnight hardware fault crashes about two-thirds of the time, and likewise about every other day it seems that I get a hardware crash. Some kind of instant fault that closes everything.
