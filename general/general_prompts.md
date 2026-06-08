@@ -11,7 +11,7 @@ These prompts transcend categories and can be used on any platform tactically.
   7. Keep going to the next item. Do not stop between items; stop only on a hard blocker or an empty unblocked list.
 
 ## Warm-up Prompt
-Take some time to explore the site and learn its structures and agentic scaffolding between its MD files and Python scripts and how everything interrelates.
+Take some time to explore the site and learn its structures and agentic scaffolding between its MD files and Python scripts and how everything interrelates. Take note of anything which looks like an obvious path for improvement.
 
 ## Curious Sweep
 /plan Look for areas to improve. Fix obvious things, but otherwise make a report of recommendations. 
@@ -32,8 +32,11 @@ As another reason to commit liberally. I have had overnight hardware fault crash
 I'm about to re-image Windows because I keep being told that nobody can run a dev server, so I think I have an over-scripted image. I'm going to download a fresh one for Microsoft and be out of it for a couple of days, so I'd like a good start here.
 The reason I'm going out anyway is just to be thinking about how to shape things next. Even though it looks like I'm making you do all the work, I am actually putting 100% of my energy into thinking about where it should go.
 
-## Ruthless Boss
-Do not pause if you know of valid tasks in the queue ahead.
+## No Pausing
+You shouldn't be pausing if you have valid tasks to be working on. Please troubleshoot that. A 5-hour rolling window just passed and only 21% usage. I was also building several other things in concurrency.
+
+## No Stopping
+> /goal Do not stop until the backlog is clear.
 
 ## The Conditional Order
 ... Therefore, proceed with XYZ unless you disagree.
