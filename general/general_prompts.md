@@ -13,6 +13,9 @@ These prompts transcend categories and can be used on any platform tactically.
 ## Warm-up Prompt
 Take some time to explore the site and learn its structures and agentic scaffolding between its MD files and Python scripts and how everything interrelates. Take note of anything which looks like an obvious path for improvement.
 
+## Explore Prompt (Some overlap to Warm-up)
+Explore the site structure and learn about it and what should be obvious to you after reading the central documentation.Explore the MCP connections and look everywhere with a recurring thought toward how to improve the site.
+
 ## Curious Sweep
 /plan Look for areas to improve. Fix obvious things, but otherwise make a report of recommendations. 
 
