@@ -16,6 +16,14 @@ Take some time to explore the site and learn its structures and agentic scaffold
 ## Documentation Hunt
 Take a moment to learn the environment and the repository. Study the central documentation flowing outward from CLAUDE.md and add anything to it that you discovered which you deem important but undocumented.
 
+## Generic Sweep
+Run over the whole site and look for things to correct, such as:
+  - poorly integrated or linked parts
+  - incomplete parts
+  - things that can be worded better
+  - poor images
+
+
 ## Explore Prompt (Some overlap to Warm-up)
 Explore the site structure and learn about it and what should be obvious to you after reading the central documentation.Explore the MCP connections and look everywhere with a recurring thought toward how to improve the site.
 
