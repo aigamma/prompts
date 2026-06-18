@@ -24,6 +24,8 @@ Run over the whole site and look for things to correct, such as:
   - poor images
 
 
+## Very Basic Exploration
+
 ## Explore Prompt (Some overlap to Warm-up)
 Explore the site structure and learn about it and what should be obvious to you after reading the central documentation.Explore the MCP connections and look everywhere with a recurring thought toward how to improve the site.
 
