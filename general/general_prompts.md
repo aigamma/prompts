@@ -10,6 +10,7 @@ These prompts transcend categories and can be used on any platform tactically.
   6. Check the item off in docs/ROADMAP.md, add anything discovered, append a LESSONS_LEARNED.md entry if durable.
   7. Keep going to the next item. Do not stop between items; stop only on a hard blocker or an empty unblocked list.
 
+
 ## Warm-up Prompt
 Take some time to explore the site and learn its structures and agentic scaffolding between its MD files and Python scripts and how everything interrelates. Take note of anything which looks like an obvious path for improvement.
 
@@ -31,6 +32,11 @@ Explore the site structure and learn about it and what should be obvious to you 
 
 ## Curious Sweep
 /plan Look for areas to improve. Fix obvious things, but otherwise make a report of recommendations. 
+
+## PageSpeed
+ By working together, we have achieved a perfect 100% score for alohacarbon.org in D:/aloha/ on Google PageSpeed Insights for Performance, Accessibility, Best Practices, SEO, and Agentic Browsing, and on both mobile and desktop. The task today is to do that for this site: 
+You are authorized to use ultracode, agent swarms, and panels as much as you like. I have overflow credits standing by in case we blow out a rolling window. Below are the current scores. MOBILE:    DESKTOP:
+
 
 ## Deep Sweep
 Run a Deep Health Check. Fix obvious errors, investigate the warnings, but most importantly find a list of ways to improve the site and make it more useful and have enduring value for repeat visitors. Make a list of recommendations for what seems risky, otherwise start building it and see how it looks.
