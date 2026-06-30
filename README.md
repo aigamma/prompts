@@ -7,9 +7,10 @@ A personal, version-controlled collection of prompts backed up here so every upd
 Prompts are organized into folders by context:
 
 - `general/` — prompts that apply anywhere, regardless of platform or project
-- `aigamma.com/` — prompts specific to aigamma.com
+- `.claude/` — prompts and concepts for Claude Code
+- `ChatGPT/` — prompts for ChatGPT
 
-Add new folders freely; the structure is just whatever's useful.
+Add new folders freely; the structure is just whatever's useful. Folders for other tools and projects (Codex, Cursor, and so on) are kept local, the same way private material is (see below).
 
 ## Keeping something private
 
