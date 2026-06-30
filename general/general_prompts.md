@@ -1,6 +1,9 @@
 # General Prompts
 These prompts transcend categories and can be used on any platform tactically.
 
+## Commit Harness
+ Keep in mind that some real heavyweights are going to be taking a look at these commits. Please make sure that your commits give the what, the why, the where, and the how of what you're doing. That's the real harness. We spent hours contextualizing it, so please don't let me down with the quality of your comments.
+
 ## Autonomous Buildout
  1. Read CLAUDE.md, LESSONS_LEARNED.md, docs/ROADMAP.md.
   2. Take the top unblocked item from docs/ROADMAP.md (skip anything under "Needs Eric").
@@ -35,7 +38,12 @@ Explore the site structure and learn about it and what should be obvious to you 
 
 ## PageSpeed
  By working together, we have achieved a perfect 100% score for alohacarbon.org in D:/aloha/ on Google PageSpeed Insights for Performance, Accessibility, Best Practices, SEO, and Agentic Browsing, and on both mobile and desktop. The task today is to do that for this site: 
+
 You are authorized to use ultracode, agent swarms, and panels as much as you like. I have overflow credits standing by in case we blow out a rolling window. Below are the current scores. MOBILE:    DESKTOP:
+
+
+## ultracode and panels
+I am about to go for a long hike in the woods and reflect on this project. You are hardly using any of 5-hour or weekly usage. It's time to invoke ultracode and panels and design swarms at your disposal. I have an abundance of overflow credits that are available if needed. Do not worry about token consumption. Focus on maximum quality and depth. This is still a greenfield project with no risk. I have no attachment to any of the designs. There are no users. There's plenty of time. Look at this from every angle using swarms and then vote on the best decisions. Just make sure to include me on the final decisions so that I can review them. Treat this like an overnight autonomous grind. Do not stop for any reason. There's plenty to work on. If you're not sure what to work on, just start another panel and have the panel decide. Make sure to keep the documentation active. If you're not sure what to work on, then look at the documentation harness itself. Commit liberally and verbosely, although it may be push only every 20 commits so that we don't burn my Netlify build credits for no reason (since I will not be present to check each push in real time). Do not leave any work uncommitted or unpushed. Never branch or do pull requests except for the worktree organization that you need to maintain the hierarchy of an agent swarm. Be fearless and push for creativity, novelty, and innovation, but make sure that it is all grounded in function and pragmatism so that I can defend this in front of a conference board and get the project approved. I look forward to discussing with you what you ended up doing and why, and where we might be able to go from there. Proceed and good luck. 
 
 
 ## Deep Sweep
