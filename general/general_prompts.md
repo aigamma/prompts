@@ -4,6 +4,9 @@ These prompts transcend categories and can be used on any platform tactically.
 ## Commit Harness
  Keep in mind that some real heavyweights are going to be taking a look at these commits. Please make sure that your commits give the what, the why, the where, and the how of what you're doing. That's the real harness. We spent hours contextualizing it, so please don't let me down with the quality of your comments.
 
+ ## README Sync
+ This is a multi-repository assignment that will start here but your scope is the entire D drive. Make sure that the README file is completely calibrated to the active project details. Go through all of the README files in all my repositories and make sure that none are stale or outdated and that they are synced to the most recent developments.
+
 ## Autonomous Buildout
  1. Read CLAUDE.md, LESSONS_LEARNED.md, docs/ROADMAP.md.
   2. Take the top unblocked item from docs/ROADMAP.md (skip anything under "Needs Eric").
