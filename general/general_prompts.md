@@ -39,6 +39,9 @@ Explore the site structure and learn about it and what should be obvious to you 
 ## Curious Sweep
 /plan Look for areas to improve. Fix obvious things, but otherwise make a report of recommendations. 
 
+## PowerPoint
+I haven't used this as a research technique yet, but I have a feeling it will work well. Please generate a PowerPoint that would explain all of the most important parts of the project. I will look through that and try to think of a thesis. I suspect that this will be a format that will allow you to generate with a strong amount of discretion, and that this would be very helpful.
+
 ## PageSpeed
  By working together, we have achieved a perfect 100% score for alohacarbon.org in D:/aloha/ on Google PageSpeed Insights for Performance, Accessibility, Best Practices, SEO, and Agentic Browsing, and on both mobile and desktop. The task today is to do that for this site: 
 
