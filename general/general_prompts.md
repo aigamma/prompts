@@ -16,6 +16,10 @@ These prompts transcend categories and can be used on any platform tactically.
   6. Check the item off in docs/ROADMAP.md, add anything discovered, append a LESSONS_LEARNED.md entry if durable.
   7. Keep going to the next item. Do not stop between items; stop only on a hard blocker or an empty unblocked list.
 
+## Panel in the Loop
+As a reminder: when you might otherwise stop because you think you need a human in the loop, just come up with a small panel (such as for three people) and have that break the tie so that you can keep moving at a slow enough pace that we don't pull out my window.
+
+  Keep in mind there is a parallel session where I'm looking at what's going on here and I'm seeing if there are any new ideas for the essay, but you don't need to worry about that.
 
 ## Warm-up Prompt
 Take some time to explore the site and learn its structures and agentic scaffolding between its MD files and Python scripts and how everything interrelates. Take note of anything which looks like an obvious path for improvement.
